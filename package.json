@@ -1,9 +1,9 @@
 {
-  "name": "tumblr-redirect",
+  "name": "openelec-redirect",
   "author": "Joseph Yølk Chiocchi",
   "repository":{
     "type": "git",
-    "url": "git://github.com/yyolk/tumblr-redirect.git"
+    "url": "git://github.com/yyolk/openelec-redirect.git"
   },
   "engines":{
     "node": ">= 0.10.x",
